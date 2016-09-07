@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoanCalculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="interest">Enter the interest as a double</string>
+    <string name="years">Enter the number of years</string>
+    <string name="amount">Enter loan amount in $</string>
+</resources>
